@@ -1,0 +1,3 @@
+Acordar,Acordar as 9h
+Cafe da manha,Ovos e Bacon as 9:30
+Almoco,Almoco as 12h
